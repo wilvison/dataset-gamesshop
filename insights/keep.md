@@ -19,6 +19,7 @@
 - **Idade Média:** 41,6 anos
 
 ### 📊 Gráfico: Países que Mais Compram e Média de Idade dos Compradores
+![image](https://github.com/user-attachments/assets/880b26f0-05aa-4b39-8d2f-45a7ee684822)
 
 
 ## 📌 Conclusões
